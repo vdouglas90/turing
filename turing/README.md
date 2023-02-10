@@ -16,3 +16,6 @@ https://beta.openai.com/account/api-keys
 
 This project is a starting point for a Flutter application.
 
+
+
+![Simulator Screen Shot - iPhone 11 - 2023-02-10 at 15 06 06](https://user-images.githubusercontent.com/105760084/218164765-631fa44c-a061-4769-a06d-cd36ba2350af.png)
