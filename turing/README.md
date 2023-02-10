@@ -8,8 +8,9 @@ clip_shadow - para fazer uma sombra recortada do AppBar estilizado
 speech_to_text - para criar um microfone capaz de conversar por voz com o Chatbot
 avatar_glow - ícone estilizado do microfone
 
-Há necessidade de ser gerado chave para acesso do chatGPT SDK, o qual pode ser obtido em:
+Há necessidade de ser gerada uma chave pessoal para acesso do chatGPT SDK, o qual pode ser obtido em:
 https://beta.openai.com/account/api-keys
+
 
 ## Getting Started
 
